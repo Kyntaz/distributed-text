@@ -1,2 +1,2 @@
-# distributed-text
-Socket exercise in Python for the Computer Networks class @ IST.
+# Distributed Text
+Socket exercise in Python for the **Computer Networks** class @ IST.
