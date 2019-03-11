@@ -115,7 +115,7 @@ def getPort(args):
 def getIp(args):
     for i in range(len(args)-1):
         if args[i] == "-n":
-            return args[i+1] + ".ist.utl.pt"
+            return args[i+1]
     return socket.gethostname()
 
 main()
